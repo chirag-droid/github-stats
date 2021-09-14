@@ -7,6 +7,8 @@
 
 </a>
 
+> Note: This repo differs from jstrieb/githb-stats because it has a custom theme implementation
+
 Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
 
